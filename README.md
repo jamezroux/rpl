@@ -10,9 +10,8 @@
 	</ul>
 	<hr>
 	<table cellpadding: 5>
-		<tr><td>Kik</td><td><a href="http://kik.me/0RlGINAL">0RlGINAL</a></td></tr>
+		<tr><td>Kik</td><td><a href="http://kik.me/Archlinux.">Archlinux.</a></td></tr>
 		<tr><td>Email</td><td><a href="mailto:admin@laveyan.co">admin@laveyan.co</a></td></tr>
-		<tr><td>Telegram</td><td><a href="http://telgram.me/Modded">Modded</a></td></tr>
 		<tr><td>Twitter</td><td><a href="http://twitter.com/B1ood6od">B1ood6od</a></td></tr>
 	</table>
 </div>
