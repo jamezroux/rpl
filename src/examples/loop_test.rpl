@@ -1,0 +1,21 @@
+54*8*3+2+4+l
+98*6+,54*5*9+8+,
+54*5*9+,54*5*2-,54*5*1+,54*5*7+7+,
+55*2*8+,66*4-,~x>99*8+,
+54*5*9+2+,54*5*9+8+,66*4-,
+54*5*5+,54*5*5+5+,54*5*9+3+,
+54*6*3-,54*6*4-,55*2*8+,66*4-,>.52*,
+pp@
+
+------------------------------------------
+
+This program is an example of a loop.
+The first line calclulates the number
+of following characters to record
+(including whitespace) and calls the 
+log command. This logs the following x
+characters into an array. The p command
+then calls the characters logged, pushes
+them into the file, and executes them.
+This can essentially be used as a call or
+goto command.
