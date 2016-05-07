@@ -1,5 +1,3 @@
-<h2>A programming language based off of Rubik's cubes</h2>
-<p>I will slowly fill this readme with an explanation</p>
 <div id="menu">
 	<ul>
 		<li><h4>Contents</h4></li>
@@ -30,7 +28,7 @@
 	<h1 id="hello">Hello World</h1>
 	<p>Hello world is relatively simple, if of course you enjoy having to use numerical values for ASCII and are familiar with befunge.</p>
 	<p><code>98*,54*5*1+,54*5*8+,54*5*8+,54*5*9+2+,65*2+,99*6+,54*5*9+2+,54*5*7+7+,54*5*8+,54*5*,25*@</code></p>
-	<p>As you can see in the above example, fubes can be programmed quite like befunge (as it indeed gets much of its syntax from befunge).</p>
+	<p>As you can see in the above example, rpl can be programmed quite like befunge (as it indeed gets much of its syntax from befunge).</p>
 	<h1 id="syntax">Syntax</h1>
 	<p>Now for the grits of the language, the syntax!</p>
 	<table cellpadding=5>
