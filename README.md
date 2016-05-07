@@ -23,7 +23,7 @@
 	<p>You know those fun toys everyone has a child? The colorful, six sided objects which twisted and whatnot? Well how about we make them more complicated; and not only that but lets add some programming to it too!</p>
 	<p>The Rubiks programming language is a combination of <a href="http://esolangs.org/befunge">Befunge</a> and the famous Rubiks Cube. It was a spontaneous, late night idea and followed through for the sole purpose of tom-foolery, headaches, and learning.</p>
 	<h1 id="purpose">Purpose</h1>
-	<p>As stated earlier, the purpose of this project is to create a language focused areount befunge and Rubiks cubes. I wanted to touch the waters of multidimensional programming. This is my first brain child, and I foresee more languages based from this logic in the future.</p>
+	<p>As stated earlier, the purpose of this project is to create a language focused around befunge and Rubiks cubes. I wanted to touch the waters of multidimensional programming. This is my first brain child, and I foresee more languages based from this logic in the future.</p>
 	<h1 id="hello">Hello World</h1>
 	<p>Hello world is relatively simple, if of course you enjoy having to use numerical values for ASCII and are familiar with befunge.</p>
 	<p><code>98*,54*5*1+,54*5*8+,54*5*8+,54*5*9+2+,65*2+,99*6+,54*5*9+2+,54*5*7+7+,54*5*8+,54*5*,25*@</code></p>
