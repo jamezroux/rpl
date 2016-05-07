@@ -41,30 +41,30 @@
 		<tr><td>|</td><td>Pop top value off stack: if value=0, go down, else up</td></tr>
 		<tr><td>\</td><td>Swap both values in stack</td></tr>
 		<tr><td><strong>Rubiks Syntax</strong></td><td><strong>Usage</strong></td></tr>
-		<tr><td>R</td><td></td></tr>
-		<tr><td>r</td><td></td></tr>
-		<tr><td>U</td><td></td></tr>
-		<tr><td>u</tr><td></td></tr>
-		<tr><td>L</tr><td></td></tr>
-		<tr><td>l</tr><td></td></tr>
-		<tr><td>F</tr><td></td></tr>
-		<tr><td>f</tr><td></td></tr>
-		<tr><td>B</tr><td></td></tr>
-		<tr><td>b</tr><td></td></tr>
-		<tr><td>D</tr><td></td></tr>
-		<tr><td>d</tr><td></td></tr>
-		<tr><td>M</tr><td></td></tr>
-		<tr><td>m</tr><td></td></tr>
-		<tr><td>E</tr><td></td></tr>
-		<tr><td>e</tr><td></td></tr>
-		<tr><td>S</tr><td></td></tr>
-		<tr><td>s</tr><td></td></tr>
-		<tr><td>X</tr><td></td></tr>
-		<tr><td>x</tr><td></td></tr>
-		<tr><td>Y</tr><td></td></tr>
-		<tr><td>y</tr><td></td></tr>
-		<tr><td>Z</tr><td></td></tr>
-		<tr><td>z</tr><td></td></tr>
+		<tr><td>R</td><td> </td></tr>
+		<tr><td>r</td><td> </td></tr>
+		<tr><td>U</td><td> </td></tr>
+		<tr><td>u</tr><td> </td></tr>
+		<tr><td>L</tr><td> </td></tr>
+		<tr><td>l</tr><td> </td></tr>
+		<tr><td>F</tr><td> </td></tr>
+		<tr><td>f</tr><td> </td></tr>
+		<tr><td>B</tr><td> </td></tr>
+		<tr><td>b</tr><td> </td></tr>
+		<tr><td>D</tr><td> </td></tr>
+		<tr><td>d</tr><td> </td></tr>
+		<tr><td>M</tr><td> </td></tr>
+		<tr><td>m</tr><td> </td></tr>
+		<tr><td>E</tr><td> </td></tr>
+		<tr><td>e</tr><td> </td></tr>
+		<tr><td>S</tr><td> </td></tr>
+		<tr><td>s</tr><td> </td></tr>
+		<tr><td>X</tr><td> </td></tr>
+		<tr><td>x</tr><td> </td></tr>
+		<tr><td>Y</tr><td> </td></tr>
+		<tr><td>y</tr><td> </td></tr>
+		<tr><td>Z</tr><td> </td></tr>
+		<tr><td>z</tr><td> </td></tr>
 	</table>
 	<h1 id="compile">How To Compile</h1>
 	<p>You dont, good luck with that. I have yet to write an interpreter, but feel free to bash my hopes and dreams by doing it.</p>
